@@ -66,7 +66,7 @@ We used above different algorithms to determine which algorithm results in the b
   * **Precision Score - Low Risk : 1.00**
   * **Recall Score Difference    : 0.24%**
  
- ![SMOTEEN](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/4-SMOTEEN.png)
+     ![SMOTEEN](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/4-SMOTEEN.png)
 
 
 ### Deliverable 3 :  Ensemble Classifiers to Predict Credit Risk
@@ -79,7 +79,7 @@ We used above different algorithms to determine which algorithm results in the b
   * **Recall Score Difference    : 0.17%
   * **The features are sorted in descending order by feature importance**
  
-![BalancedRandomForestClassifier](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/5-BRF.png)
+    ![BalancedRandomForestClassifier](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/5-BRF.png)
 
 * **EasyEnsembleClassifier** 
 
@@ -88,7 +88,7 @@ We used above different algorithms to determine which algorithm results in the b
   * **Precision Score - Low Risk : 1.00**
   * **Recall Score Difference    : 0.02%**
  
- ![EasyEnsembleClassifier](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/6-EE.png)
+     ![EasyEnsembleClassifier](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/6-EE.png)
 
  
 ## Summary 
