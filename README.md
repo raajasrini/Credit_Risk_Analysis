@@ -31,40 +31,40 @@ We used above different algorithms to determine which algorithm results in the b
 
 * **RandomOverSampler**
 
-  * Balanced Accuracy Score    : 65.12%
-  * Precision Score - High Risk: 0.01
-  * Precision Score - Low Risk : 1.00
-  * Recall Score Difference    : 0.18%
+  * **Balanced Accuracy Score    : 65.12%**
+  * **Precision Score - High Risk: 0.01**
+  * **Precision Score - Low Risk : 1.00**
+  * **Recall Score Difference    : 0.18%**
 
-![RandomOverSampler](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/1-Oversampling.png)
+    ![RandomOverSampler](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/1-Oversampling.png)
 
 * **SMOTE**
 
-  * Balanced Accuracy Score    : 65.48%
-  * Precision Score - High Risk: 0.01
-  * Precision Score - Low Risk : 1.00
-  * Recall Score Difference    : 0.07%
+  * **Balanced Accuracy Score    : 65.48%**
+  * **Precision Score - High Risk: 0.01**
+  * **Precision Score - Low Risk : 1.00**
+  * **Recall Score Difference    : 0.07%**
 
-![SMOTE](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/2-SMOTE.png)
+    ![SMOTE](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/2-SMOTE.png)
 
 * **ClusterCentroids**
 
-  * Balanced Accuracy Score    : 54.42%
-  * Precision Score - High Risk: 0.01
-  * Precision Score - Low Risk : 1.00
-  * Recall Score Difference    : 0.29%
+  * **Balanced Accuracy Score    : 54.42%**
+  * **Precision Score - High Risk: 0.01**
+  * **Precision Score - Low Risk : 1.00**
+  * **Recall Score Difference    : 0.29%**
  
- ![ClusterCentriods](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/3-ClusterCentriods.png)
+     ![ClusterCentriods](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/3-ClusterCentriods.png)
 
  
 ### Deliverable 2 :  SMOTEENN algorithm to Predict Credit Risk
 
 * **SMOTEENN**
 
-  * Balanced Accuracy Score    : 68.06%
-  * Precision Score - High Risk: 0.01
-  * Precision Score - Low Risk : 1.00
-  * Recall Score Difference    : 0.24%
+  * **Balanced Accuracy Score    : 68.06%**
+  * **Precision Score - High Risk: 0.01**
+  * **Precision Score - Low Risk : 1.00**
+  * **Recall Score Difference    : 0.24%**
  
  ![SMOTEEN](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/4-SMOTEEN.png)
 
@@ -73,20 +73,20 @@ We used above different algorithms to determine which algorithm results in the b
 
 * **BalancedRandomForestClassifier**
 
-  * Balanced Accuracy Score    : 78.85%
-  * Precision Score - High Risk: 0.03
-  * Precision Score - Low Risk : 1.00
-  * Recall Score Difference    : 0.17%
-  * The features are sorted in descending order by feature importance
+  * **Balanced Accuracy Score    : 78.85%**
+  * **Precision Score - High Risk: 0.03**
+  * **Precision Score - Low Risk : 1.00**
+  * **Recall Score Difference    : 0.17%
+  * **The features are sorted in descending order by feature importance**
  
 ![BalancedRandomForestClassifier](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/5-BRF.png)
 
 * **EasyEnsembleClassifier** 
 
-  * Balanced Accuracy Score    : 93.17%
-  * Precision Score - High Risk: 0.09
-  * Precision Score - Low Risk : 1.00
-  * Recall Score Difference    : 0.02%
+  * **Balanced Accuracy Score    : 93.17%**
+  * **Precision Score - High Risk: 0.09**
+  * **Precision Score - Low Risk : 1.00**
+  * **Recall Score Difference    : 0.02%**
  
  ![EasyEnsembleClassifier](https://github.com/raajasrini/Credit_Risk_Analysis/blob/main/images/6-EE.png)
 
